@@ -30,6 +30,7 @@ The dataset belongs to "The Bread Basket" a bakery located in Edinburgh *(public
 
 Overview of the dataset:
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/75587491-d842-4e04-82a2-ebf53caf4cae)
 
 ### 4. About this Project
 
@@ -78,35 +79,43 @@ The project will follow these steps:
 
 ### 1. Top 20 best selling items
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/1c860de9-be30-4075-b700-a0d659675ac4)
 
 ### 2. Number of items per transaction
 
-
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/4b00122e-2679-481a-84bd-45b36407b6cf)
 
  Number of items per transaction ranges from 1 to 11 items, in which transactions with two or more items account for nearly 60%. As this project mainly focuses the frequency and quantity sold of each item, all sales trends and patterns will be calculated at item-level (the quantity of items sold), not at transaction-level. 
 
 ### 3. Quantity Sold by Month
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/a1e44ba4-07f2-4dc4-8835-0b2b9a7d8dde)
 
 ### 4. Quantity Sold by Days of Week
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/7bbcbaa1-bc54-4587-8c67-acae4b811c79)
 
 ### 5. Quantity Sold by Hours of Day
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/1042bc8e-cd5d-407a-a958-49200e8096cf)
 
 ## III. Market Basket Analysis
 
 ### 1. Associations Rules Results
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/050f9099-aa56-4f9b-bd70-abbcd4391d94)
 
 ### 2. Parallel coordinates plot
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/67707939-94e2-4846-adef-658f04264545)
 
 ### 3. Itemsets Lift
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/1852c65e-227e-4dc2-a8f5-d4a000ee7052)
 
 ### 3. Itemsets Confidence
 
+![image](https://github.com/mytrannn22/Market-basket-analysis-Bread-Basket/assets/140190425/7f7ad097-5429-449e-acda-77defac1f521)
 
 ## IV. Insights 
 
